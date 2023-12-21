@@ -31,3 +31,11 @@ AI Got It.apk 파일을 설치 받아 실행시키면 첫화면으로 [그림 1(
 ![image](https://github.com/GunHoo-Ma/Opensource/assets/119672962/c91fc1fa-7fc2-448f-974e-ce5209929021)
 
 [그림 5(a)]와 같이 검출된 식재료 리스트들은 사용자의 수고 없이 자동으로 추출되어 있으며 우측 하단 아이콘을 선택하면 chat-GPT를 거쳐 AI가 챗봇 형식으로 레시피를 추천해주는 것을 확인할 수 있다. 챗봇은 사용자의 건강 정보와 검출된 레시피 및 추가로 입력한 레시피를 반영하여 필요한 재료, 레시피, 열량 등과 같은 음식 정보들을 제공해주며 사용자의 건강 정보에 맞추어 어떤 점이 반영이 되었는지 그에 맞게 설명해준다.
+
+
+# 시연 동영상
+https://www.youtube.com/watch?v=iT5m4s-73bA
+![image](https://github.com/GunHoo-Ma/Opensource/assets/119672962/cada1a86-18fc-492d-ad50-b1ec371f5c12)
+
+
+
